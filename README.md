@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shabzup
 - 👀 I’m interested in Project Managment
-- 🌱 I’m currently learning C++
+- 🌱 I’m a full-stack web and miencraft developer
 - 💞️ I’m looking to collaborate on Project offers
-- 📫 How to reach me ... Discord: Shabzup#4738
+- 📫 How to reach me ... Discord: Shabzup
 
 
